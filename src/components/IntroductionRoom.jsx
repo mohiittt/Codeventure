@@ -32,7 +32,7 @@ const IntroductionRoom = () => {
       <footer className="fixed bottom-0 left-0 w-full bg-gray-800 text-white py-2 text-center">
         <p className="text-lg font-bold">Credits to Mohit Patil</p>
         <a
-          href="https://example.com"
+          href="https://mohitp-portfolio.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-400 hover:underline"
