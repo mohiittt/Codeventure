@@ -1,2 +1,8 @@
-# Codeventure
-Codeventure is an interactive coding game designed to teach fundamental concepts of React and Tailwind CSS. Players progress through five unique rooms, each presenting coding challenges that reinforce skills in React hooks, state management, and data fetching. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
